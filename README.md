@@ -10,9 +10,7 @@ A compassionate AI chatbot developed using Hugging Face Transformers and Gradio.
 
 Access the live demo on Hugging Face Spaces:
 
-**[Visit the Web App](https://huggingface.co/spaces/your-username/mental-health-chatbot)**  
-(Replace the above link with your actual Hugging Face Space link)
-
+https://huggingface.co/spaces/ObitoVenki/AI_Powered_Mental_Health_Chatbot
 ---
 
 ## Table of Contents
